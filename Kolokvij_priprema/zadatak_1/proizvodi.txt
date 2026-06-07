@@ -1,5 +1,0 @@
-#sifra;naziv;cijena;PDV%;zaliha;jed.mjere
-1234;'Jabuka I klasa';1.00;10.00;35.50;'kg'
-5678;'Mlijeko 3.2%';1.20;5.00;100.00;'l'
-9012;'Kruh bijeli';2.50;5.00;50.00;'kom'
-3456;'Maslac 250g';4.80;25.00;20.00;'kom'
